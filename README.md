@@ -14,7 +14,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -     email: ahmedsamyh10@gmail.com
--     instagram: https://www.instagram.com/momoyo_n/
 -     twitter: @Momo_yo_n
 
 <!---

@@ -3,7 +3,6 @@
 -     =>Programming in General
 -     =>Web Development
 -     =>Maths (Mostly maths needed to develop games)
--     =>Crypto
 - 🌱 I’m currently learning ...
 -     =>JavaScript
 -     =>CSS
@@ -14,7 +13,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -     email: ahmedsamyh10@gmail.com
--     twitter: @Momo_yo_n
 
 <!---
 ahmedsamyh/ahmedsamyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
